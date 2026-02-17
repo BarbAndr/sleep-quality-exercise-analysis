@@ -39,8 +39,5 @@ Zjistit, jak silový trénink ovlivňuje:
 - Matplotlib, Seaborn (vizualizace)
 - Google Colab
 
-## Vizualizace
-(Sem přidáme obrázky grafů)
-
 ## Autor
 Barb - Student datové analýzy
