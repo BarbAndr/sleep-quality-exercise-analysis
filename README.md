@@ -1,5 +1,6 @@
 # sleep-quality-exercise-analysis
 Comparing sleep quality on training vs. non-training days  - visualization in Google Colab.
+Srovnání kvality spánku v den treningu a den bez treningu.
 
 # Analýza vlivu silového tréninku na kvalitu spánku
 
